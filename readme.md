@@ -8,8 +8,10 @@ https://www.canva.com/design/DAGka7_CT04/ROYiyG6aIKkyv74qsAgNJQ/edit?utm_content
 https://motiff.com/file/eIO424iSgwWEKPRvd3NpM14?nodeId=0%3A1&type=design
 
 **Google Colab**
-Example Usecase
+- Example Usecase (Stationary Noise)
+https://colab.research.google.com/drive/1e4CdsJpEBdTOg1O-5wjcNjdsFF37Wx-W?usp=sharing
+- Example Usecase (Non-Stationary Noise)
 https://colab.research.google.com/drive/1teH3z_5i02ZT5KyZ_nIP9bR-7keLkTQX?usp=sharing&pli=1#scrollTo=nPXpqGtdyFkl
 
-Workflow
+- Workflow
 https://colab.research.google.com/drive/1raF0-pnIdwlM-Jfo8kJ5NexoJJqkTRc8#scrollTo=9S9Y-KmIiVDZ
